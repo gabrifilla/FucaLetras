@@ -1,0 +1,21 @@
+Por favor de play em todas as musicas antes de tentar utilizar o botão "voltar" ou "avançar"... A letra da musica só é inserida no banco de dados quando a musica que aparece na textbox é executada.
+
+Favor trocar o caminho das musicas caso haja erro... 
+
+Parte do código para a mudança: 
+Codificação do Player 
+
+'string caminho = @"C:\Users\junior\Desktop\fucaletras 3.5\fucaletras\musicas";' 
+modificar para o caminho correto dependendo do Computador do usuário
+
+
+Caso ocorra o erro : 
+Error2 Could not copy the file "C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\policy.2.0.taglib-sharp.config" because it was not found. fucaletras
+
+Localizar o arquivo em questão na pasta :
+fucaletras 3.5 Final Version\fucaletras\bin\policy.2.0.taglib-sharp.config
+e copia-lo para a pasta:
+fucaletras 3.5 Final Version\fucaletras\bin\Debug
+
+Caso ocorra um erro quando mandar voltar a musica
+se mesmo tendo executado todas as musicas antes de dar este erro... eu admito que não sabia de tal, então por favor me informe para que eu possa corrigi-lo o mais urgente possível.

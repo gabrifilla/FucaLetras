@@ -1,0 +1,30 @@
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasWeb\bin\Debug\FucaLetrasWeb.dll.config
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasWeb\bin\Debug\FucaLetrasWeb.dll
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasWeb\bin\Debug\FucaLetrasWeb.pdb
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasWeb\obj\Debug\FucaLetrasWeb.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasWeb\obj\Debug\FucaLetrasWeb.dll
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasWeb\obj\Debug\FucaLetrasWeb.pdb
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasWeb\bin\Debug\FucaLetrasWeb.dll.config
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasWeb\bin\Debug\FucaLetrasWeb.dll
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasWeb\bin\Debug\FucaLetrasWeb.pdb
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasWeb\obj\Debug\FucaLetrasWeb.csprojResolveAssemblyReference.cache
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasWeb\obj\Debug\FucaLetrasWeb.dll
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasWeb\obj\Debug\FucaLetrasWeb.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\FucaLetrasWeb\bin\Debug\FucaLetrasWeb.dll.config
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\FucaLetrasWeb\bin\Debug\FucaLetrasWeb.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\FucaLetrasWeb\bin\Debug\FucaLetrasWeb.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\FucaLetrasWeb\obj\Debug\FucaLetrasWeb.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\FucaLetrasWeb\obj\Debug\FucaLetrasWeb.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\FucaLetrasWeb\obj\Debug\FucaLetrasWeb.pdb
+C:\Users\junior\Desktop\fucaletras 3.4\FucaLetrasWeb\bin\Debug\FucaLetrasWeb.dll.config
+C:\Users\junior\Desktop\fucaletras 3.4\FucaLetrasWeb\bin\Debug\FucaLetrasWeb.dll
+C:\Users\junior\Desktop\fucaletras 3.4\FucaLetrasWeb\bin\Debug\FucaLetrasWeb.pdb
+C:\Users\junior\Desktop\fucaletras 3.4\FucaLetrasWeb\obj\Debug\FucaLetrasWeb.csprojResolveAssemblyReference.cache
+C:\Users\junior\Desktop\fucaletras 3.4\FucaLetrasWeb\obj\Debug\FucaLetrasWeb.dll
+C:\Users\junior\Desktop\fucaletras 3.4\FucaLetrasWeb\obj\Debug\FucaLetrasWeb.pdb
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\FucaLetrasWeb\bin\Debug\FucaLetrasWeb.dll.config
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\FucaLetrasWeb\bin\Debug\FucaLetrasWeb.dll
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\FucaLetrasWeb\bin\Debug\FucaLetrasWeb.pdb
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\FucaLetrasWeb\obj\Debug\FucaLetrasWeb.csprojResolveAssemblyReference.cache
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\FucaLetrasWeb\obj\Debug\FucaLetrasWeb.dll
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\FucaLetrasWeb\obj\Debug\FucaLetrasWeb.pdb

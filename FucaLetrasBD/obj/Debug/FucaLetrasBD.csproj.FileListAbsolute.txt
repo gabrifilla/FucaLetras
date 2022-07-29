@@ -1,0 +1,88 @@
+N:\TCC\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll.config
+N:\TCC\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll
+N:\TCC\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.pdb
+N:\TCC\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.csprojResolveAssemblyReference.cache
+N:\TCC\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.dll
+N:\TCC\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.pdb
+E:\TCC\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll.config
+E:\TCC\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll
+E:\TCC\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.pdb
+E:\TCC\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.csprojResolveAssemblyReference.cache
+E:\TCC\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.dll
+E:\TCC\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.pdb
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll.config
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.pdb
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.csprojResolveAssemblyReference.cache
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.dll
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.pdb
+G:\Gabriel Filla\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll.config
+G:\Gabriel Filla\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll
+G:\Gabriel Filla\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.pdb
+G:\Gabriel Filla\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.csprojResolveAssemblyReference.cache
+G:\Gabriel Filla\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.dll
+G:\Gabriel Filla\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.pdb
+M:\Gabriel Filla\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll.config
+M:\Gabriel Filla\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll
+M:\Gabriel Filla\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.pdb
+M:\Gabriel Filla\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.csprojResolveAssemblyReference.cache
+M:\Gabriel Filla\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.dll
+M:\Gabriel Filla\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.pdb
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll.config
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.pdb
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.csprojResolveAssemblyReference.cache
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.dll
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.pdb
+C:\Users\Gabriel Filla\Downloads\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll.config
+C:\Users\Gabriel Filla\Downloads\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll
+C:\Users\Gabriel Filla\Downloads\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.pdb
+C:\Users\Gabriel Filla\Downloads\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\NAudio.dll
+C:\Users\Gabriel Filla\Downloads\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Gabriel Filla\Downloads\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\NAudio.xml
+C:\Users\Gabriel Filla\Downloads\fucaletras\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Filla\Downloads\fucaletras\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.dll
+C:\Users\Gabriel Filla\Downloads\fucaletras\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.pdb
+F:\TCC\fucaletras\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll.config
+F:\TCC\fucaletras\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll
+F:\TCC\fucaletras\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.pdb
+F:\TCC\fucaletras\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\NAudio.xml
+F:\TCC\fucaletras\fucaletras\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.csprojResolveAssemblyReference.cache
+F:\TCC\fucaletras\fucaletras\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.dll
+F:\TCC\fucaletras\fucaletras\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.pdb
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll.config
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.pdb
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\NAudio.xml
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.dll
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll.config
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.pdb
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll.config
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\bin\Debug\FucaLetrasBD.pdb
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.csprojResolveAssemblyReference.cache
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.dll
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\FucaLetrasBD\obj\Debug\FucaLetrasBD.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll.config
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\FucaLetrasBD\bin\Debug\FucaLetrasBD.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\FucaLetrasBD\obj\Debug\FucaLetrasBD.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\FucaLetrasBD\obj\Debug\FucaLetrasBD.pdb
+C:\Users\junior\Desktop\fucaletras 3.4\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll.config
+C:\Users\junior\Desktop\fucaletras 3.4\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll
+C:\Users\junior\Desktop\fucaletras 3.4\FucaLetrasBD\bin\Debug\FucaLetrasBD.pdb
+C:\Users\junior\Desktop\fucaletras 3.4\FucaLetrasBD\obj\Debug\FucaLetrasBD.csprojResolveAssemblyReference.cache
+C:\Users\junior\Desktop\fucaletras 3.4\FucaLetrasBD\obj\Debug\FucaLetrasBD.dll
+C:\Users\junior\Desktop\fucaletras 3.4\FucaLetrasBD\obj\Debug\FucaLetrasBD.pdb
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll.config
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\FucaLetrasBD\bin\Debug\FucaLetrasBD.dll
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\FucaLetrasBD\bin\Debug\FucaLetrasBD.pdb
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\FucaLetrasBD\obj\Debug\FucaLetrasBD.csprojResolveAssemblyReference.cache
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\FucaLetrasBD\obj\Debug\FucaLetrasBD.dll
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\FucaLetrasBD\obj\Debug\FucaLetrasBD.pdb

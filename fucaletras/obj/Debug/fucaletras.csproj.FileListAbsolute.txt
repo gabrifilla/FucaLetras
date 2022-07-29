@@ -1,0 +1,290 @@
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.exe.config
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\obj\Debug\Interop.WMPLib.dll
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csproj.ResolveComReference.cache
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.exe
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.pdb
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\bin\Debug\Dto.dll
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasBD.dll
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\bin\Debug\Negocio.dll
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\bin\Debug\Dto.pdb
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasBD.pdb
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\bin\Debug\Negocio.pdb
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\bin\Debug\NAudio.xml
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\bin\Debug\Interop.WMPLib.dll
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csprojResolveAssemblyReference.cache
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Ajuda.resources
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.CriarPlaylist.resources
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditPlay.resources
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditarLetra.resources
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditarMusica.resources
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Player.resources
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Properties.Resources.resources
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Sobre.resources
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csproj.GenerateResource.Cache
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.exe
+C:\Users\junior\Desktop\fucaletras\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.pdb
+C:\Users\Aluno\Desktop\fucaletras_3.0\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.exe.config
+C:\Users\Aluno\Desktop\fucaletras_3.0\fucaletras\fucaletras\fucaletras\obj\Debug\Interop.WMPLib.dll
+C:\Users\Aluno\Desktop\fucaletras_3.0\fucaletras\fucaletras\fucaletras\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Aluno\Desktop\fucaletras_3.0\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csproj.ResolveComReference.cache
+C:\Users\Aluno\Desktop\fucaletras_3.0\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.exe
+C:\Users\Aluno\Desktop\fucaletras_3.0\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.pdb
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.exe.config
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\Interop.WMPLib.dll
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csproj.ResolveComReference.cache
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.exe
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.pdb
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.exe
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.pdb
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Dto.dll
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasBD.dll
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasWeb.dll
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Negocio.dll
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Dto.pdb
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasBD.pdb
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasWeb.pdb
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Negocio.pdb
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\NAudio.xml
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Ajuda.resources
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.CriarPlaylist.resources
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditPlay.resources
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditarLetra.resources
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditarMusica.resources
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Player.resources
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Properties.Resources.resources
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Sobre.resources
+C:\Users\Aluno\Desktop\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csproj.GenerateResource.Cache
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.exe.config
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csproj.ResolveComReference.cache
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.exe
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.pdb
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.exe
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.pdb
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Dto.dll
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasBD.dll
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasWeb.dll
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Negocio.dll
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Dto.pdb
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasBD.pdb
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasWeb.pdb
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Negocio.pdb
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\NAudio.xml
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Ajuda.resources
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.CriarPlaylist.resources
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditPlay.resources
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditarLetra.resources
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditarMusica.resources
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Player.resources
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Properties.Resources.resources
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Sobre.resources
+C:\Users\Gabriel Filla\Downloads\Trabalho\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csproj.GenerateResource.Cache
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.exe.config
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.exe
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Dto.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasBD.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasWeb.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Negocio.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Dto.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasBD.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasWeb.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Negocio.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csproj.ResolveComReference.cache
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Ajuda.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.CriarPlaylist.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditPlay.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditarLetra.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditarMusica.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Player.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Properties.Resources.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Sobre.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csproj.GenerateResource.Cache
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.exe
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.pdb
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.exe.config
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.exe
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.pdb
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Dto.dll
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasBD.dll
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasWeb.dll
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Negocio.dll
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Dto.pdb
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasBD.pdb
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasWeb.pdb
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Negocio.pdb
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\policy.2.0.taglib-sharp.config
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csprojResolveAssemblyReference.cache
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\Interop.WMPLib.dll
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csproj.ResolveComReference.cache
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Ajuda.resources
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.CriarPlaylist.resources
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditPlay.resources
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditarLetra.resources
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditarMusica.resources
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Player.resources
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Properties.Resources.resources
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Sobre.resources
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csproj.GenerateResource.Cache
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.exe
+E:\TCC\TCC\fucaletras_3.3\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.pdb
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.exe.config
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\Interop.WMPLib.dll
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csproj.ResolveComReference.cache
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.exe
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.pdb
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.exe
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\fucaletras.pdb
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Dto.dll
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasBD.dll
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasWeb.dll
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Negocio.dll
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Dto.pdb
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasBD.pdb
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\FucaLetrasWeb.pdb
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\Negocio.pdb
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csprojResolveAssemblyReference.cache
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Ajuda.resources
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.CriarPlaylist.resources
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditPlay.resources
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditarLetra.resources
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.EditarMusica.resources
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Player.resources
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Properties.Resources.resources
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.Sobre.resources
+C:\Users\Aluno.SSPRTLAB07\Desktop\fucaletras_3.2\fucaletras_3.1\fucaletras_3.1\fucaletras\fucaletras\fucaletras\obj\Debug\fucaletras.csproj.GenerateResource.Cache
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras\fucaletras\bin\Debug\fucaletras.exe.config
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras\fucaletras\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras\fucaletras\obj\Debug\fucaletras.csproj.ResolveComReference.cache
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras\fucaletras\obj\Debug\fucaletras.exe
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras\fucaletras\obj\Debug\fucaletras.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\bin\Debug\Dto.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\bin\Debug\FucaLetrasBD.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\bin\Debug\FucaLetrasWeb.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\bin\Debug\Negocio.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\bin\Debug\Dto.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\bin\Debug\FucaLetrasBD.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\bin\Debug\FucaLetrasWeb.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\bin\Debug\Negocio.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.csproj.ResolveComReference.cache
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.Ajuda.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.CriarPlaylist.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.EditPlay.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.EditarLetra.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.EditarMusica.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.Player.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.Properties.Resources.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.Sobre.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.csproj.GenerateResource.Cache
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.exe
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\bin\Debug\fucaletras.exe.config
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\bin\Debug\fucaletras.exe
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.4\fucaletras\bin\Debug\fucaletras.pdb
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\bin\Debug\fucaletras.exe.config
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\obj\Debug\Interop.WMPLib.dll
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.csproj.ResolveComReference.cache
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.exe
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.pdb
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\bin\Debug\fucaletras.exe
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\bin\Debug\fucaletras.pdb
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\bin\Debug\Dto.dll
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\bin\Debug\FucaLetrasBD.dll
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\bin\Debug\FucaLetrasWeb.dll
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\bin\Debug\Negocio.dll
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\bin\Debug\Dto.pdb
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\bin\Debug\FucaLetrasBD.pdb
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\bin\Debug\FucaLetrasWeb.pdb
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\bin\Debug\Negocio.pdb
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.csprojResolveAssemblyReference.cache
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.Ajuda.resources
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.CriarPlaylist.resources
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.EditPlay.resources
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.EditarLetra.resources
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.EditarMusica.resources
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.Player.resources
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.Properties.Resources.resources
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.Sobre.resources
+C:\Users\junior\Documents\SENAI\TECNICO INFORMÁTICA\2015\TCC\Gabriel Filla\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.csproj.GenerateResource.Cache
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\bin\Debug\fucaletras.exe.config
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\obj\Debug\Interop.WMPLib.dll
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.csproj.ResolveComReference.cache
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.exe
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.pdb
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\bin\Debug\fucaletras.exe
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\bin\Debug\fucaletras.pdb
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\bin\Debug\Dto.dll
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\bin\Debug\FucaLetrasBD.dll
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\bin\Debug\FucaLetrasWeb.dll
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\bin\Debug\Negocio.dll
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\bin\Debug\Dto.pdb
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\bin\Debug\FucaLetrasBD.pdb
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\bin\Debug\FucaLetrasWeb.pdb
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\bin\Debug\Negocio.pdb
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.csprojResolveAssemblyReference.cache
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.Ajuda.resources
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.CriarPlaylist.resources
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.EditPlay.resources
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.EditarLetra.resources
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.EditarMusica.resources
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.Player.resources
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.Properties.Resources.resources
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.Sobre.resources
+C:\Users\junior\Desktop\fucaletras 3.4\fucaletras\obj\Debug\fucaletras.csproj.GenerateResource.Cache
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\FucaLetrasBD.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\FucaLetrasWeb.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\FucaLetrasBD.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\FucaLetrasWeb.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.csproj.ResolveComReference.cache
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.Ajuda.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.EditPlay.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.EditarLetra.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.EditarMusica.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.Player.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.Properties.Resources.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.Sobre.resources
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.csproj.GenerateResource.Cache
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.exe
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.pdb
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\fucaletras.exe.config
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\fucaletras.exe
+C:\Users\Gabriel Filla\Desktop\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\fucaletras.pdb
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\fucaletras.exe.config
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\Interop.WMPLib.dll
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.csproj.ResolveComReference.cache
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.exe
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.pdb
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\fucaletras.exe
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\fucaletras.pdb
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\FucaLetrasBD.dll
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\FucaLetrasWeb.dll
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\FucaLetrasBD.pdb
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\FucaLetrasWeb.pdb
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\bin\Debug\policy.2.0.taglib-sharp.config
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.csprojResolveAssemblyReference.cache
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.Ajuda.resources
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.EditPlay.resources
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.EditarLetra.resources
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.EditarMusica.resources
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.Player.resources
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.Properties.Resources.resources
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.Sobre.resources
+F:\Backup\Jogo\TCC\TCC\fucaletras 3.5 Final Version\fucaletras\obj\Debug\fucaletras.csproj.GenerateResource.Cache
